@@ -1,0 +1,1 @@
+# Remove headers, page nos., etc.
