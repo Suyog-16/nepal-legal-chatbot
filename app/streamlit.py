@@ -73,12 +73,6 @@ Context:
 Question:
 {question}
 
-Your answer should follow this structure:
-1. **Summary:** A one-line summary of the main legal idea.
-2. **Legal Reference:** Cite specific Article(s), Clause(s), or Act(s).
-3. **Explanation:** Explain the meaning in simple, educational terms.
-4. **Practical Example (optional):** If helpful, give a real-life example.
-
 Answer clearly, respectfully, and accurately as a knowledgeable Nepali legal expert.
 """
 
@@ -100,7 +94,7 @@ qa = RetrievalQA.from_chain_type(
 # -----------------------------
 # Streamlit UI
 # -----------------------------
-st.set_page_config(page_title="NyayaGPT", page_icon="🇳🇵", layout="wide")
+st.set_page_config(page_title="NyaySathi", page_icon="🇳🇵", layout="wide")
 
 st.title("NyayaGPT🇳🇵 ")
 st.write("Your Nepalese legal assistant. Ask questions about laws, policies, and the Constitution.")
