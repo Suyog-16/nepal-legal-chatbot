@@ -1,157 +1,44 @@
-<!-- PROJECT LOGO -->
-## ------------------------Incomplete---------------------------------
-<br />
-<p align="center">
-  <a href="https://github.com/Suyog-16/nepal-legal-chatbot">
-    <img src="images/Emblem_of_Nepal.png" alt="Logo" width="150" height="150">
-  </a>
+<!-- PROJECT LOGO --> <br /> <p align="center"> <a href="https://github.com/Suyog-16/nepal-legal-chatbot"> <img src="images/Emblem_of_Nepal.png" alt="Logo" width="150" height="150"> </a> <h3 align="center">NyaySathi</h3> <p align="center"> A Retrieval-Augmented Generation (RAG) Based Legal Chatbot for Nepali Laws and Constitution <br /> <i>“Empowering citizens with accessible legal knowledge.”</i> <br /><br /> <!-- <a href="#usage">View Demo</a> --> </p> </p> <!-- ABOUT THE PROJECT -->
+# About The Project
 
-  <h3 align="center">NyaySathi</h3>
+NyaySathi is a legal chatbot for Nepal that helps users understand and explore the Constitution, Acts, Policies, and Regulations of the country in simple English.
+It uses Retrieval-Augmented Generation (RAG) to fetch accurate and up-to-date legal information from trusted government sources and responds with clear explanations along with citations from official legal documents.
 
-  <p align="center">
-    A Retrieval-Augmented Generation (RAG) Based Legal Chatbot for Nepali Laws and Constitution
-    <br />
-    <br />
-    <!-- <a href="#usage">View Demo</a> -->
+The project aims to make Nepalese law accessible, understandable, and searchable for:
 
-  </p>
-</p>
+- Citizens seeking legal awareness
+
+- Law students exploring legal frameworks
+
+- Professionals looking for quick legal references
+
+- NyaySathi bridges the gap between citizens and complex legal texts — one query at a time.
 
 
+<!-- USAGE -->
+## Usage
 
-<!-- TABLE OF CONTENTS -->
-<!-- <details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#dependencies">Dependencies</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#authors">Authors</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-  </ol>
-</details> -->
+You can ask NyaySathi questions such as:
 
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-This project is a Legal Chatbot for Nepal designed to answer queries related to the Constitution, Acts, Policies, and Regulations of Nepal. It uses Retrieval-Augmented Generation (RAG) to provide accurate and up-to-date legal information in English, complete with citations from official legal documents. The goal is to make Nepalese legal knowledge more accessible, understandable, and searchable for citizens, students, and legal professionals.
-
-[Here goes the title with hyperlink](https://github.com/catiaspsilva/README-template)
-
-<!-- You can include tables or images to summarize your results when and if appropriate. -->
-
-<!-- GETTING STARTED -->
-<!-- ## Getting Started
-
-In this section you should provide instructions on how to use this repository to recreate your project locally.
-
-### Dependencies
-
-Here, list all libraries, packages and other dependencies that need to be installed to run your project. Include library versions and how they should be installed if a special requirement is needed.
-
-For example, this is how you would list them:
-* Transformers 4.8.0
-  ```sh
-  conda install -c conda-forge transformers
-  ```
-* OpenCV 4.5.2
-  ```sh
-  conda install -c conda-forge opencv
-  ``` -->
-<!-- ### Alternative: Export your Environment
-
-Alternatively, you can export your Python working environment, push it to your project's repository and allow users to clone it locally. This way, anyone can install it and they will have all dependencies needed. Here is how you export a copy of your Python environment:
-
-  ```sh
-  conda env export > requirements.yml
-  ```
-
-The user will be able to recreate it using:
-
-  ```sh
-  conda env create -f requirements.yml
-  ```
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/catiaspsilva/README-template.git
-   ```
-2. Setup (and activate) your environment
-  ```sh
-  conda env create -f requirements.yml
-  ``` -->
-
-<!-- USAGE EXAMPLES -->
-<!-- ## Usage
-
-Use this space to show useful examples of how a project can be used. For course projects, include which file to execute and the format of any input variables.
-
-Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_ -->
-
-<!-- ROADMAP -->
-<!-- ## Roadmap
-
-See the [open issues](https://github.com/catiaspsilva/README-template/issues) for a list of proposed features (and known issues). -->
-
-<!-- CONTRIBUTING -->
-<!-- ## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request -->
-
+""Can a prime minister ever be arrested?"" 
+It responds with a clear, concise explanation citing relevant articles or sections from the Constitution of Nepal or related acts.
 
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License.
+See LICENSE
+ for more information.
 
-
-<!-- Authors -->
+<!-- AUTHORS -->
 ## Authors
 
-Suyog Ghimire - ghimiresuyog89@gmail.com
+Suyog Ghimire
+Email: ghimiresuyog89@gmail.com
 
-Project Link: [https://github.com/Suyog-16/nepal-legal-chatbot](https://github.com/Suyog-16/nepal-legal-chatbot)
+Project Link: https://github.com/Suyog-16/nepal-legal-chatbot
 
 
-<!-- ACKNOWLEDGEMENTS -->
-<!-- ## Acknowledgements
+## Thank You
 
-You can acknowledge any individual, group, institution or service.
-* [Catia Silva](https://faculty.eng.ufl.edu/catia-silva/)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick) -->
-
-## Thank you
-
-<!-- If this is useful: [![Buy me a coffee](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg)](https://www.buymeacoffee.com/catiaspsilva) -->
+If you find this project useful, consider giving it a star on GitHub to support its development.
