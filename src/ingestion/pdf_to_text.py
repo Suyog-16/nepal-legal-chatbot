@@ -1,2 +1,0 @@
-
-# Extract text from PDFs

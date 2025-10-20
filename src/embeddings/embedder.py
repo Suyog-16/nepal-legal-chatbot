@@ -1,1 +1,0 @@
-# Create embeddings using sentence-transformers

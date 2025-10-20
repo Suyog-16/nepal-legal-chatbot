@@ -1,1 +1,0 @@
-# Retrieve top-k docs for queries
