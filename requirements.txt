@@ -16,7 +16,7 @@ chromadb==0.5.5
 faiss-cpu==1.8.0
 transformers==4.44.2
 sentence-transformers==3.1.0
-openai==1.45.0
+
 
 # --- Utilities ---
 python-dotenv==1.0.1
