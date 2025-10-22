@@ -1,4 +1,7 @@
-<!-- PROJECT LOGO --> <br /> <p align="center"> <a href="https://github.com/Suyog-16/nepal-legal-chatbot"> <img src="images/Emblem_of_Nepal.png" alt="Logo" width="150" height="150"> </a> <h3 align="center">NyaySathi</h3> <p align="center"> A Retrieval-Augmented Generation (RAG) Based Legal Chatbot for Nepali Laws and Constitution <br /> <i>“Empowering citizens with accessible legal knowledge.”</i> <br /><br /> <!-- <a href="#usage">View Demo</a> --> </p> </p> <!-- ABOUT THE PROJECT -->
+<!-- PROJECT LOGO --> <br /> <p align="center"> <a href="https://github.com/Suyog-16/nepal-legal-chatbot"> <img src="images/Emblem_of_Nepal.png" alt="Logo" width="150" height="150"> </a> <h3 align="center">NyaySathi</h3> <p align="center"> A Retrieval-Augmented Generation (RAG) Based Legal Chatbot for Nepali Laws and Constitution <br /> <i>“Empowering citizens with accessible legal knowledge.”</i> <br /><br /> 
+
+<center><a href="https://nyaysathi.streamlit.app/">View Demo</a> </center>
+
 # About The Project
 
 NyaySathi is a legal chatbot for Nepal that helps users understand and explore the Constitution, Acts, Policies, and Regulations of the country in simple English.  
